@@ -1,0 +1,2 @@
+# SzachyJB
+Szachy w C++
