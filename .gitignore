@@ -1,0 +1,15 @@
+.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+x64
+Debug
+*.exe
+*.obj
+*.idb
+*.pdb
+*.tlog
+*.log
+*.lastbuildstate
+*.enc
